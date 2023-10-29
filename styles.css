@@ -6,3 +6,7 @@ img {
     /* Only use height OR width to maintain image's aspect ratio */
     width: 153px;
 }
+
+h2 {
+    text-decoration: underline;
+}
